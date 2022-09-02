@@ -1,0 +1,63 @@
+body {
+  background: rgb(177, 205, 135);
+  margin: 1rem;
+  padding: 1rem;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+  border-bottom: 2px solid orange;
+}
+
+ol {
+  padding-left: 0;
+}
+
+.crumb {
+  margin-right: 2em;
+  display: inline;
+}
+
+a {
+  color: orange;
+}
+p {
+  margin-bottom: 0;
+  color: blue;
+}
+
+a:visited {
+  color: crimson;
+}
+
+input {
+  display: block;
+}
+
+#img {
+  width: 300px;
+  height: 200px;
+  margin: 30px;
+}
+#submit {
+  margin: 10px;
+}
+.buttons {
+  background-color: yellow;
+  margin: 20px;
+  width: 100px;
+  height: 50px;
+}
+
+div {
+  color: aqua;
+  font-size: smaller;
+}
+
+.restaurant {
+  font-style: italic;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+}
